@@ -1,1 +1,1 @@
-My data science projects!
+Self projects
